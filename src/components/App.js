@@ -18,7 +18,7 @@ class App extends Component {
         <div>
             <img src={profile} alt='profile-picture' className='profile' />
             <h1>Hello!</h1>
-            <p>My name is Hassan.</p>
+            <p>My name is Hassan Allak.</p>
             <Title />
             <p>I'm always looking forward to working on meaningful projects</p>
             {
