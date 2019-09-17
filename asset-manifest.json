@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/PortfolioV2/static/css/main.2cce8147.chunk.css",
-    "main.js": "/PortfolioV2/static/js/main.c8f6d08f.chunk.js",
-    "main.js.map": "/PortfolioV2/static/js/main.c8f6d08f.chunk.js.map",
+    "main.css": "/PortfolioV2/static/css/main.49817bb5.chunk.css",
+    "main.js": "/PortfolioV2/static/js/main.a809de15.chunk.js",
+    "main.js.map": "/PortfolioV2/static/js/main.a809de15.chunk.js.map",
     "runtime~main.js": "/PortfolioV2/static/js/runtime~main.9354210b.js",
     "runtime~main.js.map": "/PortfolioV2/static/js/runtime~main.9354210b.js.map",
-    "static/js/2.82f222f2.chunk.js": "/PortfolioV2/static/js/2.82f222f2.chunk.js",
-    "static/js/2.82f222f2.chunk.js.map": "/PortfolioV2/static/js/2.82f222f2.chunk.js.map",
+    "static/js/2.c465c7e8.chunk.js": "/PortfolioV2/static/js/2.c465c7e8.chunk.js",
+    "static/js/2.c465c7e8.chunk.js.map": "/PortfolioV2/static/js/2.c465c7e8.chunk.js.map",
     "index.html": "/PortfolioV2/index.html",
-    "precache-manifest.5f8fa9f099856e40609797a384b1305c.js": "/PortfolioV2/precache-manifest.5f8fa9f099856e40609797a384b1305c.js",
+    "precache-manifest.198d8c8a7d5b2e55fa052b59ffc8d48c.js": "/PortfolioV2/precache-manifest.198d8c8a7d5b2e55fa052b59ffc8d48c.js",
     "service-worker.js": "/PortfolioV2/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/PortfolioV2/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/PortfolioV2/static/media/logo.5d5d9eef.svg"
+    "static/css/main.49817bb5.chunk.css.map": "/PortfolioV2/static/css/main.49817bb5.chunk.css.map",
+    "static/media/index.css": "/PortfolioV2/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/email_icon.png": "/PortfolioV2/static/media/email_icon.fd99f8e3.png",
+    "static/media/github_icon.png": "/PortfolioV2/static/media/github_icon.e2a62886.png",
+    "static/media/linkedin_icon.png": "/PortfolioV2/static/media/linkedin_icon.56ab00e8.png",
+    "static/media/profile4.jpg": "/PortfolioV2/static/media/profile4.48c8b8e6.jpg",
+    "static/media/project1.png": "/PortfolioV2/static/media/project1.bf56edc6.png",
+    "static/media/project2.png": "/PortfolioV2/static/media/project2.f7e79c7d.png",
+    "static/media/project3.png": "/PortfolioV2/static/media/project3.7bded960.png",
+    "static/media/twitter_icon.png": "/PortfolioV2/static/media/twitter_icon.512536cb.png",
+    "static/media/wordpress_baner.jpg": "/PortfolioV2/static/media/wordpress_baner.ef1ae882.jpg"
   }
 }
