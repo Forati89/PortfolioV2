@@ -31,7 +31,7 @@ class Title extends Component{
 
     render()
     {
-        const {fadeIn, titleIndex} = this.state;
+        const {fadeIn} = this.state;
         const title = TITELS[this.state.titleIndex];
 
         return(
