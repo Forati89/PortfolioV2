@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10f696cd735702d3c01f63509bec4632",
+    "revision": "cc3e3cf77a898ad9595bc56ba5635e72",
     "url": "/PortfolioV2/index.html"
   },
   {
-    "revision": "4fdb78b35197f8464883",
+    "revision": "aeb6bb7b0f6e067c8c0e",
     "url": "/PortfolioV2/static/css/main.90e91bd6.chunk.css"
   },
   {
-    "revision": "b4e0a4797dddcd7c7b0f",
-    "url": "/PortfolioV2/static/js/2.7a014474.chunk.js"
+    "revision": "a332a20ff17e8c8a2cec",
+    "url": "/PortfolioV2/static/js/2.0107f324.chunk.js"
   },
   {
-    "revision": "4fdb78b35197f8464883",
-    "url": "/PortfolioV2/static/js/main.9e8eeb68.chunk.js"
+    "revision": "aeb6bb7b0f6e067c8c0e",
+    "url": "/PortfolioV2/static/js/main.1478c8c3.chunk.js"
   },
   {
     "revision": "05d14ab4def9c1abd9b9",
     "url": "/PortfolioV2/static/js/runtime~main.9354210b.js"
+  },
+  {
+    "revision": "49e9afe7e622acf8bfdd66b807a6d41c",
+    "url": "/PortfolioV2/static/media/MusicFinder.49e9afe7.jpg"
   },
   {
     "revision": "8262057119c963741b868e0d8dd68dd3",
