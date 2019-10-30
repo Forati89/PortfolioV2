@@ -1,44 +1,29 @@
-import project1 from '../assets/project1.png';
-import project2 from '../assets/project2.png';
-import project3 from '../assets/project3.png';
 import wordpress_baner from '../assets/wordpress_baner.jpg'
 import musicBaner from '../assets/MusicFinder.jpg'
-
+import ecommerce from '../assets/e-commerce.jpg'
 const PROJECTS = [
+
     {
         id: 1,
-        title: 'Example React Application',
-        description: 'A React App that I built, involving JS and core web dec concepts!',
-        link: 'https://github.com/forati89/example',
-        image: project1
-    },
-    {
-        id: 2,
-        title: 'My API',
-        description: 'A REST API that I built from scratch with GET and POST requests!',
-        link: 'https://github.com/forati89/example',
-        image: project2
-    },
-    {
-        id: 3,
-        title: 'Operating System Final Project',
-        description: 'My unique final project for my university Operating Systems course.',
-        link: 'https://github.com/forati89/example',
-        image: project3
-    },
-    {
-        id: 4,
         title: 'WordPress E-commerce',
         description: 'A complete e-commerce project by me, built with WordPress',
         link: 'https://www.cloudvapor.se',
         image: wordpress_baner
     },
     {
-        id: 5,
+        id: 2,
         title: 'Music Finder using Spotify API',
         description: 'A React App for finding Artist and top tracks using API',
         link: 'https://forati89.github.io/Music-Finder/',
         image: musicBaner
+    },
+    {
+        id: 3,
+        title: 'E-commerce Site',
+        description: 'Full e-commerce site with stripe, firebase & auth login',
+        link: 'https://forati89.github.io/e-shop/',
+        image: ecommerce
+        
     }
 
 

@@ -7,7 +7,14 @@ const Project = props => {
         return (
             <div style={{ width: 320, margin: 10,  display: 'table', display: 'inline-block' }}>
                 <h3>{title}</h3>
-                <img src={image} alt='profile' style={{ width: 200, height: 120 }} />
+                <img src={image} alt='profile' style={{
+                     width: 200,
+                     height: 120,
+                     boxShadow: '5px 10px 18px black',
+                     maxHeight: '100%',
+                     maxWidth: '100%',
+                     objectFit: 'cover'
+                    }} />
                 <p>{description}</p>
                 <a href={link}>{link}</a>
             </div>
