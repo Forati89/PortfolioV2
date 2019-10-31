@@ -20,7 +20,7 @@ const PROJECTS = [
     {
         id: 3,
         title: 'E-commerce Site',
-        description: 'Full e-commerce site with stripe, firebase & auth login',
+        description: 'Full e-commerce site with stripe, firebase & auth login using React & Redux and more!',
         link: 'https://forati89.github.io/e-shop/',
         image: ecommerce
         
