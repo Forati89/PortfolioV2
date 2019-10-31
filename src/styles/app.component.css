@@ -1,0 +1,12 @@
+.app{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+@media All and (max-width: 600px) {
+    .app{
+      max-width: 100%;
+    }
+  }

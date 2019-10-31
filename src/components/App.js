@@ -3,6 +3,7 @@ import Projects from '../components/Projects'
 import SocialProfiles from '../components/SocialProfiles'
 import profile from '../assets/profile4.jpg';
 import Title from '../components/Title';
+import '../styles/app.component.css'
 
 
 class App extends Component {
@@ -14,7 +15,7 @@ class App extends Component {
 
     render() {
         return (
-        <div>
+        <div className='app'>
             <img src={profile} alt='profile' className='profile' />
             <h1>Hello!</h1>
             <p>My name is Hassan.</p>
@@ -34,9 +35,9 @@ class App extends Component {
                     </div>
                 )
             }
-            <hr />
+            <hr style={{maxWidth: '100%'}}/>
             <Projects />
-            <hr />
+            <hr style={{maxWidth: '100%'}}/>
             <SocialProfiles />
         </div>
 
